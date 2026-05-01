@@ -11,3 +11,7 @@ visualized to identify pollution trends and health risk events.
 - Identifies the **top 5 locations** by mean and median concentrations of 
   VOC, PM 2.5, and PM 10.0
 - Finds the **maximum record
+## Files
+- `AirQuality_Daily_StudentVersion.csv` – Raw dataset
+- `Project1_AirQuality.ipynb` – Main analysis script
+- `top5_mean_concentrations.png` – Output visualization
